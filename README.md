@@ -1,5 +1,3 @@
-# zen-class-automation-testing-documentation
-#### zen-class-automation-testing-documentation<img src="https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/main.jpeg" alt="Description of the image" width="100%" height="100%">
 
  <!DOCTYPE html>
 <html>
